@@ -1,7 +1,6 @@
 # projeto-FDS
 
 ## Equipe
-<br>
 <ul>
   <li>Antonio Pereira Camelo</li>
   <li>Erico Chen</li>
