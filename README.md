@@ -17,7 +17,7 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 
 ## Equipe
 <ul>
-  <li><bold>Antonio Pereira Camelo</bold></li>
+  <li><b>Antonio Pereira Camelo</b></li>
   <li>Erico Chen</li>
   <li>Pablo Chaves Muniz</li>
   <li>Pedro Antonio de Freitas Mergulhao</li>
