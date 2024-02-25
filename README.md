@@ -7,3 +7,6 @@
   <li>Pablo Chaves Muniz</li>
   <li>Pedro Antonio de Freitas Mergulhao</li>
 </ul>
+
+## Gerenciador de Estoques
+<p></p>
