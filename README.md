@@ -15,6 +15,9 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 - <b>Banco de Dados</b>:  SQLITE3/PostgreSQL
 - <b>Hospedagem</b>: Azure
 
+<h4>Entrega 1</h4>
+<a href="https://ec2.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTI5OTNlYzNmMWZhNDk1YTg4MTM1MjllNGIxNjIxMDMiLCJwIjoiaiJ9" target="_blank">Link do Jira</a>
+<a href="https://youtu.be/Uc1kY8fP65w" target="_blank">ScreenCast</a>
 ## Equipe
 <ul>
   <li>Antonio Pereira Camelo</li>
@@ -24,6 +27,5 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
   <li>João Marcelo Pordeus de Queiroz</li>
 </ul>
 
-## Jira
-<a href="https://ec2.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTI5OTNlYzNmMWZhNDk1YTg4MTM1MjllNGIxNjIxMDMiLCJwIjoiaiJ9" target="_blank">Link do Jira</a>
-
+<img width="1319" alt="jira-board" src="https://github.com/erico-chen/StockGestor/assets/149506953/42b92d98-f8c7-47a3-957d-f1d1713f74a1">
+<img width="1214" alt="jira-backlog" src="https://github.com/erico-chen/StockGestor/assets/149506953/12cfbfd6-b3b7-400d-b9fb-e54ae455a934">
