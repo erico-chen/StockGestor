@@ -26,7 +26,6 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 <img width="1319" alt="jira-board" src="https://github.com/erico-chen/StockGestor/assets/149506953/42b92d98-f8c7-47a3-957d-f1d1713f74a1">
 <img width="1214" alt="jira-backlog" src="https://github.com/erico-chen/StockGestor/assets/149506953/12cfbfd6-b3b7-400d-b9fb-e54ae455a934">
 <br>
-<br>
 
 ## Equipe
 <ul>
