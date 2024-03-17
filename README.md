@@ -20,7 +20,9 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 <br>
 <a href="https://youtu.be/Uc1kY8fP65w" target="_blank">ScreenCast</a>
 <br>
+<a href="https://www.figma.com/file/Z4RLnHZ52gVCrKk8YsjhAT/StockGestor?type=design&node-id=2410%3A5206&mode=design&t=0ag9lRPBh1nog0hL-1"target="_blank">Protótipo no Figma</a>
 <br>
+
 ## Equipe
 <ul>
   <li>Antonio Pereira Camelo</li>
