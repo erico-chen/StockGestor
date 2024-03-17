@@ -17,7 +17,9 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 
 <h4>Entrega 1</h4>
 <a href="https://ec2.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTI5OTNlYzNmMWZhNDk1YTg4MTM1MjllNGIxNjIxMDMiLCJwIjoiaiJ9" target="_blank">Link do Jira</a>
+<br>
 <a href="https://youtu.be/Uc1kY8fP65w" target="_blank">ScreenCast</a>
+<br>
 ## Equipe
 <ul>
   <li>Antonio Pereira Camelo</li>
