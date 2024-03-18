@@ -23,8 +23,8 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 <a href="https://www.figma.com/file/Z4RLnHZ52gVCrKk8YsjhAT/StockGestor?type=design&node-id=2410%3A5206&mode=design&t=0ag9lRPBh1nog0hL-1"target="_blank">Protótipo no Figma</a>
 <br>
 <br>
-<img width="1319" alt="jira-board" src="https://github.com/erico-chen/StockGestor/assets/149506953/42b92d98-f8c7-47a3-957d-f1d1713f74a1">
-<img width="1214" alt="jira-backlog" src="https://github.com/erico-chen/StockGestor/assets/149506953/12cfbfd6-b3b7-400d-b9fb-e54ae455a934">
+<img width="1319" alt="jira-board" src="https://github.com/erico-chen/StockGestor/assets/149506953/92697aad-c498-4007-a3b7-ac27690fe475">
+<img width="1214" alt="jira-backlog" src="https://github.com/erico-chen/StockGestor/assets/149506953/8b56a0b1-0a4e-459a-8f07-a25074066104">
 <br>
 
 ## Equipe
