@@ -18,7 +18,7 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 <h4>Entrega 1</h4>
 <a href="https://ec2.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiNTI5OTNlYzNmMWZhNDk1YTg4MTM1MjllNGIxNjIxMDMiLCJwIjoiaiJ9" target="_blank">Link do Jira</a>
 <br>
-<a href="https://youtu.be/Uc1kY8fP65w" target="_blank">ScreenCast</a>
+<a href="https://www.youtube.com/watch?v=bY1ljnj7ewY" target="_blank">ScreenCast</a>
 <br>
 <a href="https://www.figma.com/file/Z4RLnHZ52gVCrKk8YsjhAT/StockGestor?type=design&node-id=2410%3A5206&mode=design&t=0ag9lRPBh1nog0hL-1"target="_blank">Protótipo no Figma</a>
 <br>
@@ -28,11 +28,5 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 <br>
 
 ## Equipe
-<ul>
-  <li>Antonio Pereira Camelo</li>
-  <li>Erico Chen</li>
-  <li>Pablo Chaves Muniz</li>
-  <li>Pedro Antonio de Freitas Mergulhao</li>
-  <li>João Marcelo Pordeus de Queiroz</li>
-</ul>
+<img width="1319" alt="jira-board" src="https://github.com/erico-chen/StockGestor/assets/99767869/b6eb8e3f-30f7-4aeb-a63f-358214ee39c5">
 
