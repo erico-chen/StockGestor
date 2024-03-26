@@ -1,5 +1,5 @@
 from django.db import models
-#IE IM ENDERECO UF EMAIL TELEFONE
+
 class Fornecedores(models.Model):
     nome_empresa = models.CharField(max_length = 40)
     cnpj = models.CharField(max_length = 18)
