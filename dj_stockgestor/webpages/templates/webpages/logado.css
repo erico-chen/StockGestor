@@ -1,0 +1,56 @@
+body{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+#header {
+
+    background-color: grey;
+    padding: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+
+    font-size: 24px;
+
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline-block;
+    margin-left: 20px;
+    border: 1px solid white;
+    padding: 5px 10px;
+}
+
+nav ul li #nao_escolhido{
+
+    background-color: white;
+    color: black;
+
+}
+
+nav ul li #escolhido{
+    
+    background-color: black;
+    color: white;
+
+}
+
+nav ul li a {
+    color: #373535;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    text-decoration: underline;
+}
