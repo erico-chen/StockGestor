@@ -1,7 +1,9 @@
 from django.shortcuts import render
 
 
-# Create your views here.
 def home(request):
-    return render(request, 'webpages/bases_1.html')
+    return render(request, 'webpages/base.html')
+
+def logado(request):
+    return render(request, 'webpages/testando.html')
 
