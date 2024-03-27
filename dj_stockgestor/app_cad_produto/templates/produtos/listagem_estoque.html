@@ -1,0 +1,34 @@
+<div class="container">
+    <table>
+        <tr>
+            <th>id</th>
+            <th>cod</th>
+            <th>produto</th>
+            <th>ref</th>
+            <th>marca</th>
+            <th>categoria</th>
+            <th>qtd</th>
+            <th>preco_compra</th>
+            <th>local</th>
+            <th>entrada</th>
+            <th>validade</th>
+            <th>estoque</th>
+        </tr>
+        {% for produto in produtos %}
+        <tr>
+            <td>{{produto.id_produto}}</td>
+            <td>{{produto.cod}}</td>
+            <td>{{produto.produto}}</td>
+            <td>{{produto.ref}}</td>
+            <td>{{produto.marca}}</td>
+            <td>{{produto.categoria}}</td>
+            <td>{{produto.qtd}}</td>
+            <td>{{produto.preco_compra}}</td>
+            <td>{{produto.local}}</td>
+            <td>{{produto.entrada}}</td>
+            <td>{{produto.validade}}</td>
+            <td>{{produto.estoque}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+</div>
