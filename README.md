@@ -8,6 +8,9 @@ StockGestor é um sistema de gerenciamento de estoque projetado para ajudar pequ
 - <b>Controle de Estoque</b>: Monitorar as quantidades de estoque em tempo real.
 - <b>Gestão de Fornecedores</b>: Manter um registro de fornecedores e suas informações de contato.
 - <b>Relatórios</b>: Gerar relatórios de informações sobre de estoque e fornecedores.
+- <b>Valor Total do Estoque</b>: Mostrar o valor combinado de todos os produtos do estoque.
+- <b>Remoção de Fornecedores</b>: Remover fornecedores que o usuário não gostaria mais de catalogar.
+- <b>Filtrar por Fornecedor</b>: Filtrar o catálogo de produtos pelo fornecedor escolhido.
 
 ## Tecnologias Utilizadas
 - <b>Backend</b>: Python, Django
